@@ -1,0 +1,6 @@
+git init
+git add .         # добавит ВСЕ файлы и папки
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ваш-логин/ваш-репозиторий.git
+git push -u origin main
